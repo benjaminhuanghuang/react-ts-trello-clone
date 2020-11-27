@@ -1,5 +1,5 @@
 
-## React + TypeScript Dragdrop
+## React + TypeScript + styled-components + Dragdrop
 
 From Fullstack React with TypeScript
 
